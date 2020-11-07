@@ -1,0 +1,15 @@
+// Esther Pang
+// Blk: 1-2a
+// Oct. 26, 2020
+
+//mode framework
+int mode;
+final int INTRO = 0;
+final int GAME = 0;
+final int PAUSE = 0;
+final int GAMEOVER = 0;
+
+
+void setup () {
+
+}
